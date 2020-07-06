@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JunoAssignment</string>
+
+    <string name="title_activity_image_video_fullscreen">ImageVideoFullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
